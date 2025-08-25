@@ -1,6 +1,6 @@
 name: custom_lints
 description: A set of opinionated analyzer rules and lints for Dart and Flutter apps.
-version: 1.0.0
+version: 1.0.1
 
 environment:
-  sdk: ^3.8.0
+  sdk: ^3.9.0
