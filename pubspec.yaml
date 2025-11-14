@@ -3,4 +3,4 @@ description: A set of opinionated analyzer rules and lints for Dart and Flutter 
 version: 1.0.1
 
 environment:
-  sdk: ^3.9.0
+  sdk: ^3.10.0
