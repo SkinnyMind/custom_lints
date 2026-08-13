@@ -57,6 +57,7 @@ linter:
     - constant_identifier_names
     - control_flow_in_finally
     - empty_constructor_bodies
+    - empty_container_bodies
     - empty_statements
     - exhaustive_cases
     - implementation_imports
@@ -95,12 +96,15 @@ linter:
     - unnecessary_null_aware_assignments
     - unnecessary_null_in_if_null_operators
     - unnecessary_nullable_for_final_variable_declarations
+    - unnecessary_primary_constructor_body
     - unnecessary_string_escapes
     - unnecessary_string_interpolations
     - unnecessary_this
     - unnecessary_to_list_in_spreads
     - unnecessary_underscores
+    - use_declaring_parameters
     - use_function_type_syntax_for_parameters
+    - use_primary_constructors
     - use_rethrow_when_possible
     - use_super_parameters
     # flutter
